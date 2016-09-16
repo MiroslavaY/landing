@@ -1,0 +1,21 @@
+{
+  "name": "landing",
+  "description": "landing page",
+  "main": "common.js",
+  "authors": [
+    "Miroslava Yaremenko"
+  ],
+  "license": "ISC",
+  "homepage": "/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bourbon": "^4.2.7"
+  }
+}
